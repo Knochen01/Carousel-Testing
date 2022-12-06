@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Carousel-Testing/static/css/main.c626d597.css",
+    "main.js": "/Carousel-Testing/static/js/main.9c5ce768.js",
+    "static/media/fa-solid-900.ttf": "/Carousel-Testing/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Carousel-Testing/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Carousel-Testing/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Carousel-Testing/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/image1.jpg": "/Carousel-Testing/static/media/image1.08e1519e765278b10548.jpg",
+    "static/media/fa-regular-400.ttf": "/Carousel-Testing/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/image2.jpg": "/Carousel-Testing/static/media/image2.e659483e4e46c66eac5c.jpg",
+    "static/media/image3.jpg": "/Carousel-Testing/static/media/image3.151fb1d63cb55d8575aa.jpg",
+    "static/media/fa-regular-400.woff2": "/Carousel-Testing/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Carousel-Testing/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Carousel-Testing/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Carousel-Testing/index.html",
+    "main.c626d597.css.map": "/Carousel-Testing/static/css/main.c626d597.css.map",
+    "main.9c5ce768.js.map": "/Carousel-Testing/static/js/main.9c5ce768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c626d597.css",
+    "static/js/main.9c5ce768.js"
+  ]
+}
